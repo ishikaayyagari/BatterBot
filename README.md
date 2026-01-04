@@ -37,12 +37,9 @@ HOW IT WORKS:
     6. Validated recipes are formatted and displayed to the user.
 
 RUNNING LOCALLY (HOW TO):
-    1. Install dependencies:
-        pip install -r requirements.txt
-    2. Set your OpenAI API key:
-        export OPENAI_API_KEY=your_api_key_here
-    3. Run the app:
-        streamlit run app.py
+    1. Install dependencies: pip install -r requirements.txt
+    2. Set your OpenAI API key: export OPENAI_API_KEY=your_api_key_here
+    3. Run the app: streamlit run app.py
 
 LIMITATIONS:
     - Does not calculate nutritional information.
